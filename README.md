@@ -45,3 +45,7 @@ If you made it this far, you likely know how to read a tag. 😉 If not, here ar
 1. Bring your phone near the tag, similar to tapping to pay at a store.
     1. Your phone will show a notification with the tag's content.
 1. Tap the notification to open the link, contact card, or other content.
+
+## Build your own 🤓
+That's cool and all, but how do I make one?!  
+Check out the [build your own](docs/build-your-own.md) page for a step-by-step guide. 🧑‍🚀
