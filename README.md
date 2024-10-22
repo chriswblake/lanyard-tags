@@ -1,13 +1,11 @@
 # Lanyard Tags
 Fun decorations to add to your lanyard during a conference or event. They are super easy to 3D print and support tapping with your phone! 🤓
 
-
 | Front | Back |
 | :-: | :-: |
 | ![](docs/on-lanyard-front.jpg) | ![](docs/on-lanyard-back.jpg) |
 
 Check out the other [designs](docs/designs.md). 🚀
-
 
 ## How to Use
 If you received your tag prebuilt, it came preloaded with a link to these instructions. Using an NFC tool app, you can overwrite the default content to make it your own.
@@ -49,3 +47,7 @@ If you made it this far, you likely know how to read a tag. 😉 If not, here ar
 ## Build your own 🤓
 That's cool and all, but how do I make one?!  
 Check out the [build your own](docs/build-your-own.md) page for a step-by-step guide. 🧑‍🚀
+
+## Design your own 🎨
+I have an idea for a design! Can you help me make it? Please! 🥺  
+Absolutely! Check out the [design your own](docs/design-your-own.md) page. It should answer any questions you have.
