@@ -51,3 +51,9 @@ Check out the [build your own](docs/build-your-own.md) page for a step-by-step g
 ## Design your own 🎨
 I have an idea for a design! Can you help me make it? Please! 🥺  
 Absolutely! Check out the [design your own](docs/design-your-own.md) page. It should answer any questions you have.
+
+## Troubleleshooting
+- **When scanned, URLs are opening in a web browser instead of the app.**  
+There is a not-so-obvious iOS setting for 'Universal Links' which simply remembers what you did last time.
+    - To disable Universal Links, long-press the link and select **Open in Safari**. In the future, related links will open in a web browser instead of the app.
+    - To enable Universal Links, long-press the link and select **Open in (app name)**. In the future, related links will open in the app instead of a web browser.
