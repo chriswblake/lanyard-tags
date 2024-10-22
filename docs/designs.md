@@ -1,6 +1,7 @@
 # Designs
 
-Below is a list of all the designs that are available in this repository. Feel free to submit a PR to add your own design! 🧑‍🚀 But...please keep them coding related. 🤓
+Below is a list of all the designs that are available in this repository.
+Feel free to submit a PR to [add your own design](design-your-own.md)! 🧑‍🚀 But...please keep them coding related. 🤓
 
 | Picture | Name `|
 |-|-|
