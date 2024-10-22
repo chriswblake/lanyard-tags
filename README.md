@@ -6,6 +6,9 @@ Fun decorations to add to your lanyard during a conference or event. They are su
 | :-: | :-: |
 | ![](docs/on-lanyard-front.jpg) | ![](docs/on-lanyard-back.jpg) |
 
+Check out the other [designs](docs/designs.md). 🚀
+
+
 ## How to Use
 If you received your tag prebuilt, it came preloaded with a link to these instructions. Using an NFC tool app, you can overwrite the default content to make it your own.
 
