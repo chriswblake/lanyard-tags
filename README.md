@@ -52,6 +52,8 @@ Check out the [build your own](docs/build-your-own.md) page for a step-by-step g
 I have an idea for a design! Can you help me make it? Please! 🥺  
 Absolutely! Check out the [design your own](docs/design-your-own.md) page. It should answer any questions you have.
 
+Alternately, feel free to [submit your design idea as an issue](https://github.com/chriswblake/lanyard-tags/issues). Maybe someone else will pick it up! 🙋 If it gets 10+ likes, I'll make it myself. 😎
+
 ## Troubleleshooting
 - **When scanned, URLs are opening in a web browser instead of the app.**  
 There is a not-so-obvious iOS setting for 'Universal Links' which simply remembers what you did last time.

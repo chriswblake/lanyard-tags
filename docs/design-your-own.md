@@ -1,6 +1,8 @@
 ## Design your own 🎨
 Missing a design you would like? Here is a guide to make your own!
 
+Alternately, feel free to [submit your design idea as an issue](https://github.com/chriswblake/lanyard-tags/issues). Maybe someone else will pick it up! 🙋 If it gets 10+ likes, I'll make it myself. 😎
+
 ### Tools and Materials
 The following were the tools and materials used for creating the existing designs.
 Naturally, you can use other tools and materials but your process may need some adapting.
