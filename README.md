@@ -5,7 +5,16 @@ Fun decorations to add to your lanyard during a conference or event. They are su
 | :-: | :-: |
 | ![](docs/on-lanyard-front.jpg) | ![](docs/on-lanyard-back.jpg) |
 
-Check out the other [designs](docs/designs.md). 🚀
+<table>
+<tr>
+   <td align="center"><br/>GitHub Copilot<br/><img src="designs/github-copilot/build-sample.jpg"/></td>
+   <td align="center"><br/>GitHub Invertocat<br/><img src="designs/github-invertocat/build-sample.jpg"/></td>
+   <td align="center">GitHub Octocat<br/>(Mona)<br/><img src="designs/github-octocat/build-sample.jpg"/></td>
+   <td align="center">Hello Kitty<br/>(Mona's lost twin?)<br/><img src="designs/hello-kitty/build-sample.jpg"/></td>
+   <td align="center"><br/>Rocket<br/><img src="designs/rocket/build-sample.jpg"/></td>
+</tr>
+</table>
+
 
 ## How to Use
 If you received your tag prebuilt, it came preloaded with a link to these instructions. Using an NFC tool app, you can overwrite the default content to make it your own.
